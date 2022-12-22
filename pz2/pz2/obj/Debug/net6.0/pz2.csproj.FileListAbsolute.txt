@@ -1,0 +1,15 @@
+C:\infobez\pz2\pz2\bin\Debug\net6.0\pz2.exe
+C:\infobez\pz2\pz2\bin\Debug\net6.0\pz2.deps.json
+C:\infobez\pz2\pz2\bin\Debug\net6.0\pz2.runtimeconfig.json
+C:\infobez\pz2\pz2\bin\Debug\net6.0\pz2.dll
+C:\infobez\pz2\pz2\bin\Debug\net6.0\pz2.pdb
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.csproj.AssemblyReference.cache
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.AssemblyInfoInputs.cache
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.AssemblyInfo.cs
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.csproj.CoreCompileInputs.cache
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.dll
+C:\infobez\pz2\pz2\obj\Debug\net6.0\refint\pz2.dll
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.pdb
+C:\infobez\pz2\pz2\obj\Debug\net6.0\pz2.genruntimeconfig.cache
+C:\infobez\pz2\pz2\obj\Debug\net6.0\ref\pz2.dll
