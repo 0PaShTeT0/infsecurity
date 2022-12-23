@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\infobez\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj": {}
+    "C:\\Users\\PaShTeT\\Documents\\GitHub\\infsecurity\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj": {}
   },
   "projects": {
-    "C:\\infobez\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj": {
+    "C:\\Users\\PaShTeT\\Documents\\GitHub\\infsecurity\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\infobez\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj",
+        "projectUniqueName": "C:\\Users\\PaShTeT\\Documents\\GitHub\\infsecurity\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj",
         "projectName": "pz3.1",
-        "projectPath": "C:\\infobez\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj",
+        "projectPath": "C:\\Users\\PaShTeT\\Documents\\GitHub\\infsecurity\\pz3\\pz3.1\\pz3.1\\pz3.1.csproj",
         "packagesPath": "C:\\Users\\PaShTeT\\.nuget\\packages\\",
-        "outputPath": "C:\\infobez\\pz3\\pz3.1\\pz3.1\\obj\\",
+        "outputPath": "C:\\Users\\PaShTeT\\Documents\\GitHub\\infsecurity\\pz3\\pz3.1\\pz3.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
